@@ -10,9 +10,9 @@
     <!-- <link rel="stylesheet" href="~/Ahbc2022AprilWebApp1.styles.css" asp-append-version="true" /> -->
 </head>
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container">
+    <header class="stickyHeader">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light customNavbar">
+            <div class="container chunk">
                 <a class="navbar-brand" asp-area="" asp-page="/Index">Christy's World</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
@@ -34,15 +34,15 @@
             </div>
         </nav>
     </header>
-    <div class="container">
+    <div class="container mainContent">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2022 - Christy's World - <a asp-area="" asp-page="/Privacy">Privacy</a>
+    <footer class="footer text-muted">
+        <div class="container chunk">
+            &copy; 2022 - Christy's World
         </div>
     </footer>
 

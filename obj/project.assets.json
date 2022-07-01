@@ -140,19 +140,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\15862\\.nuget\\packages\\": {}
+    "C:\\Users\\Christ\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\15862\\source\\repos\\Ahbc2022AprilWebApp1\\Ahbc2022AprilWebApp1\\Ahbc2022AprilWebApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Christ\\Documents\\GC\\repos\\Ahbc2022AprilWebApp1\\Ahbc2022AprilWebApp1.csproj",
       "projectName": "Ahbc2022AprilWebApp1",
-      "projectPath": "C:\\Users\\15862\\source\\repos\\Ahbc2022AprilWebApp1\\Ahbc2022AprilWebApp1\\Ahbc2022AprilWebApp1.csproj",
-      "packagesPath": "C:\\Users\\15862\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\15862\\source\\repos\\Ahbc2022AprilWebApp1\\Ahbc2022AprilWebApp1\\obj\\",
+      "projectPath": "C:\\Users\\Christ\\Documents\\GC\\repos\\Ahbc2022AprilWebApp1\\Ahbc2022AprilWebApp1.csproj",
+      "packagesPath": "C:\\Users\\Christ\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Christ\\Documents\\GC\\repos\\Ahbc2022AprilWebApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\15862\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Christ\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -203,7 +203,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
