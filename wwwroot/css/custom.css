@@ -61,7 +61,7 @@ p {
 #map {
     margin-top: 10px;
     margin-bottom: 20px;
-    height: 300px;
+    height: 280px;
     width: 100%;
     border: 1px solid rgba(0,0,0,0.2);
 }
@@ -88,6 +88,16 @@ p {
     background-color: #fff;
     box-shadow: -3px 3px 0px #185fff;
 }
+
+ul {
+    list-style: circle;
+    margin-left: 20px;
+    font-size: 10pt;
+}
+
+    ul li {
+        text-indent: .25em;
+    }
 
 .nopad {
     padding-top: 0;
@@ -122,6 +132,11 @@ blockquote span {
     display: table;
     width: 80%;
     margin: auto;
+}
+
+img.thumb {
+    border: 1px solid lime;
+    width: 100%;
 }
 
 /* playing with grainy gradient
